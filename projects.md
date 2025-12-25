@@ -1,10 +1,8 @@
 ---
 layout: page
-title: 
+title: Projects
 permalink: /projects/
 ---
-
-# Projects
 
 <div class="projects-list">
 
