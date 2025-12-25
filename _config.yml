@@ -1,7 +1,7 @@
 # Site settings
 title: Daniel Anderson
 description: Personal portfolio showcasing projects and experience
-baseurl: "" # Leave empty for username.github.io, or "/repository-name" for project site
+baseurl: "/portfolio" # The subpath of your site, e.g. /portfolio
 url: "https://dtand.github.io" # Your GitHub Pages URL
 
 # Build settings
